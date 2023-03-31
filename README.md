@@ -2,4 +2,4 @@
 
 github para desarrolladores
 
-{Visita a mi blog}(https://github.com/IngSoftLuis/)
+[Vistita a mi blog](https://github.com/IngSoftLuis/)
